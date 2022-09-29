@@ -1,0 +1,67 @@
+h1{
+
+display: block;
+text-align: center;
+font-size: 50px;
+font-weight: bolder;
+
+
+font-family: Quicksand;
+}
+
+h2{
+    display: block;
+    text-align: center;
+    font-size: 32px;
+    font-weight: bolder;
+   
+    
+    font-family: Quicksand;
+}
+
+h3{
+    font-size: 18px;
+
+    font-family: Quicksand;
+
+}
+
+img{
+
+    width: 250px;
+        height: 350px;
+        
+}    
+
+.first{
+    text-align: center;
+    margin: 55px; 
+    font-family: Quicksand;
+}
+
+   
+    
+    
+   .cont{
+
+        display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 30px;
+    padding: 10px;
+    }
+    
+    body{
+        background-color: rgb(252, 247, 241);
+
+    }
+    .test{
+        padding-top:  150px;
+
+      
+        justify-content: center;
+        text-align: center;
+        
+    }
+
+    
